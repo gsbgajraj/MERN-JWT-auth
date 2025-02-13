@@ -11,8 +11,8 @@ const Home = () => {
 
   return (
     <div className="home">
-      <h1>Welcome to the MERN Advanced Authentication App</h1>
-      <p>Thank you for testing the service.</p>
+      <h1>Welcome to the Gajraj Auth App</h1>
+      <p>Thank you for using the service.</p>
       <button onClick={logoutHandler}>Logout</button>
     </div>
   );
