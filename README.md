@@ -2,6 +2,15 @@
 
 This project demonstrates a MERN (MongoDB, Express, React, Node.js) stack application with JWT (JSON Web Token) authentication. The project consists of a client (React.js) and a server (Node.js with Express).
 
+![image](https://github.com/user-attachments/assets/9cfe38ed-e56b-43db-8690-ec4751bb6ec7)
+
+![image](https://github.com/user-attachments/assets/ca2cf399-2b27-4e52-a764-90a05f5661f4)
+
+![image](https://github.com/user-attachments/assets/893d8242-cc53-456c-ba20-c2a789c3ebf6)
+
+![image](https://github.com/user-attachments/assets/fc93d776-0703-4d56-b529-1d8821104dd6)
+
+
 ## Prerequisites
 
 - Node.js
